@@ -1,0 +1,2 @@
+module epita.fr {
+}
